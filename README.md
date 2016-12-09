@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TL - WiringPi
 
 Objective
@@ -76,3 +77,6 @@ Compilation and Execution
 -------------------------
 	gcc -Wall -o traffic.out traffic.c -lwiringPi -lpthread
 	./traffic.out
+=======
+# TL-WiringPi
+>>>>>>> 26a9e8208ae87331689c7f78ab9f7ab0ffa18eb8
